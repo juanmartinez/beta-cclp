@@ -1,0 +1,4 @@
+.overlay {width:800px;height:600px;background-image:url(http://static.flowplayer.org/img/overlay/petrol.png);display:none;padding: 0 !important;}
+.overlay .close {background:url(http://static.flowplayer.org/img/overlay/close.png) no-repeat;position:absolute;top:2px;right:5px;width:35px;height:35px;cursor:pointer;}
+#player, #player_api {height:250px;width:415px;display:block;}
+#player_api {position:absolute; z-index:10000;}
