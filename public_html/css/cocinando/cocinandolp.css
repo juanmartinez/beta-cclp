@@ -11,8 +11,9 @@ ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input{margin
 .ultimo{border-right:#aacde6 1px solid;}
 .itemmenu{display:block;font-family:Verdana, Geneva, sans-serif;float:left;height:20px;border-right:#0d72b9 1px solid;border-left:#aacde6 1px solid;padding:5px 5px 0px 5px;font-size:12px;color:#FFF;}
 .itemmenu:hover, .selected{border:#818181 1px solid;border-bottom:#FFF 1px solid;color:#0d72b9;background-color:#FFF;}
-
 /* banner 728x90 */
+.banner_lateral_1{float:left; margin-left:-170px;}
+.banner_lateral_2{float:right;margin-right:-190px;}
 .banner_superior{float:left; padding-left:165px; margin-top:-70px;}
 .limpiar{clear:both;}
 #right{margin-top:15px;float:right; padding-right:18px; width:160px;}
